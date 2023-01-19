@@ -24,7 +24,7 @@
     "updatedAt": "2021-12-24 01:12:02",  
   },
   {
-    "id": "3",
+    "id": "4",
     "username": "editor",
     "password": "editor@123",
     "type": "editor",
@@ -32,7 +32,7 @@
     "updatedAt": "2021-12-24 01:12:02",  
   },
   {
-    "id": "3",
+    "id": "5",
     "username": "author",
     "password": "author@123",
     "type": "editor",
