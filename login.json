@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "admin@123",
+    "type": "admin",
+    "createdAt": "2021-12-14 13:38:26",
+    "updatedAt": "",  
+  },
+  {
+    "id": "2",
+    "username": "user",
+    "password": "user@123",
+    "type": "user",
+    "createdAt": "2021-12-14 13:38:26",
+    "updatedAt": "2021-12-24 01:12:02",  
+  },
+  {
+    "id": "3",
+    "username": "moderator",
+    "password": "moderator@123",
+    "type": "moderator",
+    "createdAt": "2021-12-14 13:38:26",
+    "updatedAt": "2021-12-24 01:12:02",  
+  },
+  {
+    "id": "3",
+    "username": "editor",
+    "password": "editor@123",
+    "type": "editor",
+    "createdAt": "2021-12-14 13:38:26",
+    "updatedAt": "2021-12-24 01:12:02",  
+  },
+  {
+    "id": "3",
+    "username": "author",
+    "password": "author@123",
+    "type": "editor",
+    "createdAt": "2021-12-14 13:38:26",
+    "updatedAt": "2021-12-24 01:12:02",  
+  }
+]
